@@ -1,6 +1,3 @@
-Aqui está um exemplo de como você poderia criar um programa em JavaScript que informa se um aluno foi reprovado ou não com base em três notas usando um operador de atribuição e um operador ternário:
-
-Copy code
 // Obtém as três notas do aluno
 let grade1 = parseFloat(prompt("Informe a nota 1: "));
 let grade2 = parseFloat(prompt("Informe a nota 2: "));
